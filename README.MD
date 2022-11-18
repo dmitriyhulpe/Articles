@@ -1,4 +1,4 @@
-# PERN Stack Blog
+#  MERN Stack Blog
 This repository covers most of the concepts of MERN stack application. Stack of used technologies is below.
 
 ## Backend Stack Technologies:
